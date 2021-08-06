@@ -1,0 +1,60 @@
+.row-header{
+  margin:0px auto;
+  padding:0px auto;
+}
+
+.row-content {
+  margin:0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height:400px;
+}
+
+.footer{
+  background-color: #D1C4E9;
+  margin:0px auto;
+  padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+  padding:70px 30px 70px 30px;
+  margin:0px auto;
+  background: #9575CD ;
+  color:floralwhite;
+}
+
+address{
+  font-size:80%;
+  margin:0px;
+  color:#0f0f0f;
+}
+
+.navbar-dark {
+  background-color: #512DA8;
+}
+.social-iconset a {
+  margin: 0 5px 0 0;
+}
+.nav    a {
+    color: rgb(226, 224, 224);
+ 
+}
+.nav a:hover, .nav .active {
+  color:  #fff;
+
+}
+h2 {
+  padding: 5px 0;
+  
+}
+h4 {
+  margin: 16px 0;
+}
+.thumb {
+  max-height: 167px;
+}
+.media-left {
+  float: left;
+}
+.form-group {
+  margin-bottom: 16PX;
+}
